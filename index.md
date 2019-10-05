@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## About Myself
+
+I am currently a Masters Student in Department of Computational and Data Sciences at Indian Institute of Sciece, Bangalore.
 
 You can use the [editor on GitHub](https://github.com/13manan/Manan-Shah/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
