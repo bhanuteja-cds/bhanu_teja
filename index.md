@@ -2,14 +2,14 @@
 
 I am currently pursuing Masters in Department of Computational and Data Sciences at Indian Institute of Science, Bangalore. I am currently working on Parallel Algebraic Solvers for Extreme Scale Systems. 
 
-## Background
+### Background
 
 I completed my Bachelors in Mechanical Engineering from S V National Institute of Technology, Surat in 2018. My area of interests are Parallel Computing and Machine Learning.
 
 
-## Projects
+### Projects
 
-## Skills
+### Skills
 - Programming Languages: C++, Python
 - Object Oriented Programming, Template Metaprogramming
 - Familar with Scientific Software Libraries like BLAS, LAPACK, SCALAPACK
