@@ -2,20 +2,22 @@
 
 I am currently pursuing Masters in Department of Computational and Data Sciences at Indian Institute of Science, Bangalore. I am currently working on Parallel Algebraic Solvers for Extreme Scale Systems. 
 
-You can use the [editor on GitHub](https://github.com/13manan/Manan-Shah/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Background
+## Background
 
 I completed my Bachelors in Mechanical Engineering from S V National Institute of Technology, Surat in 2018. My area of interests are Parallel Computing and Machine Learning.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Projects
+
+## Skills
+- Programming Languages: C++, Python
+- Object Oriented Programming, Template Metaprogramming
+- Familar with Scientific Software Libraries like BLAS, LAPACK, SCALAPACK
+- Eclipse Debugger and Intel VTune Profiler
+- Parallel Programming Libraries OpenMP, MPI and CUDA programming
+- Machine Learning and Deep Learning Frameworks - Scikit-Learn, TensorFlow
+- Git Version Control
+- CMake Build System
 
 - Bulleted
 - List
