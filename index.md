@@ -1,14 +1,14 @@
 ## About Myself
 
-I am currently a Masters Student in Department of Computational and Data Sciences at Indian Institute of Sciece, Bangalore.
+I am currently pursuing Masters in Department of Computational and Data Sciences at Indian Institute of Science, Bangalore. I am currently working on Parallel Algebraic Solvers for Extreme Scale Systems. 
 
 You can use the [editor on GitHub](https://github.com/13manan/Manan-Shah/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I completed my Bachelors in Mechanical Engineering from S V National Institute of Technology, Surat in 2018. My area of interests are Parallel Computing and Machine Learning.
 
 ```markdown
 Syntax highlighted code block
