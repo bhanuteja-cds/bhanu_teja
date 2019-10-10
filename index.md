@@ -38,4 +38,4 @@ I completed my Bachelors in Mechanical Engineering from S V National Institute o
 
 ## Contact Details
 
-[Link](13mananshah@gmail.com) 
+E-mail: [13mananshah@gmail.com](13mananshah@gmail.com) 
