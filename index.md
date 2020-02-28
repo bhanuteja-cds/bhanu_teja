@@ -1,17 +1,11 @@
 ## About Myself
-I am pursuing my PhD at Department of Computational and Data Sciences at Indian Institute of Science, Bangalore. The research topic is 'Modeling and simulation of turbulent free surface flows around ships and floating structures'
+I am a PhD student at Department of Computational and Data Sciences, Indian Institute of Science, Bangalore. The research topic is 'Modeling and simulation of turbulent free surface flows around ships and floating structures'. In the work I explore moving mesh and fixed grid techniques along with FSI(fluid structure interaction) coupling algorithms. Discontinuous Galerkin(DG) methods are explored for the numerical solution of advection equation encountered in fixed grid framework. Variational Multi Scale methods is used for turbulence modeling. Finite element method is used to numerically solve the coupled PDEs. Production level parallel (MPI based )C++ codes are developed in deal.ii(Differential Equations Analysis Library) framework and are shown to scale to thousands of processors
 
 ## Background
 I completed my dual degree in Civil Engineering from Indian Institute of Technology, Madras in 2008. My area of interests are Numerical methods and High performance computing.
 
-## Projects
-### Implementation of parallel algorithms for ship hydrodynamics problem
--  Improvement of upto 2X is obtained over Intel MKL Pardiso Solver in Sequential Case
--  Improvement of upto 10X is obtained for Graph coarsening operations when offloaded to GPU
-
+## Earlier Projects
 ### Development of probabilistic seismic hazard map of India
-- Implemented Encoder Decoder GRU based Model with different types of attention mechanisms and Pointer Generator Networks.
-- Rouge Score (F1-Score) of 31.17 is obtained on summarizing small paragraphs
 
 ## Skills
 - object oriented programming with C++
