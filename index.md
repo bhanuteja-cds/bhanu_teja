@@ -13,6 +13,7 @@ Development of probabilistic seismic hazard map of India
 - The contour maps of peak ground acceleration, 0.2 second spectral acceleration and 1.0 second
 spectral acceleration, corresponding to 2% probability of exceedance in 50 years and 10% probability
 of exceedance in 50 years, are prepared
+https://ndma.gov.in/images/pdf/Indiapshafinalreport.pdf
 
 ## Skills
 - object oriented programming with C++
