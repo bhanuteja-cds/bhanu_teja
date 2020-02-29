@@ -5,7 +5,14 @@ I am a PhD student at Department of Computational and Data Sciences, Indian Inst
 I completed my dual degree in Civil Engineering from Indian Institute of Technology, Madras in 2008. My area of interests are Numerical methods and High performance computing.
 
 ## Earlier Projects
-### Development of probabilistic seismic hazard map of India
+Development of probabilistic seismic hazard map of India
+- Sponsored by National Disaster Management Authority – Government of India
+- Development of seismic attenuation relations using the stochastic seismological model for India
+- Involves using the seismic recurrence relations and the attenuation relations
+- Probabilistic seismic hazard analysis of India at bed rock level is carried over a grid of 0.2o x 0.2 o
+- The contour maps of peak ground acceleration, 0.2 second spectral acceleration and 1.0 second
+spectral acceleration, corresponding to 2% probability of exceedance in 50 years and 10% probability
+of exceedance in 50 years, are prepared
 
 ## Skills
 - object oriented programming with C++
