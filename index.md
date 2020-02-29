@@ -12,7 +12,8 @@ Development of probabilistic seismic hazard map of India
 - Probabilistic seismic hazard analysis of India at bed rock level is carried over a grid of 0.2o x 0.2 o
 - The contour maps of peak ground acceleration, 0.2 second spectral acceleration and 1.0 second
 spectral acceleration, corresponding to 2% probability of exceedance in 50 years and 10% probability
-of exceedance in 50 years, are prepared
+of exceedance in 50 years, are prepared.
+
 https://ndma.gov.in/images/pdf/Indiapshafinalreport.pdf
 
 ## Skills
